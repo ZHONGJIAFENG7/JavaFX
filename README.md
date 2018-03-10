@@ -5,8 +5,10 @@
 Java group project repository. This project amis to teach kids how to do binary addition and subtraction with fruit symbols. So we also adopt Colourful hand drawn cartoony style to appeal to children. It is beta version now, which mean they still has many bug, hope you enjoy computer science knowledge, or you can use `Ctrl + D` for mark.
 
 ## Usage
-Enter beta file 
+Open terminal in beta file 
+
      java -jar Buggybits.jar
+
 
 ## People
 This is a group project, incluing ★ Jiafeng Zhong ★ Rob Bettison ★ Hugo Keung ★Jacob Bloor ★ Oli Dare ★ Kevwe Fadahunsi
