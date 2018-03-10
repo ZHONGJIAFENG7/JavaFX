@@ -1,11 +1,11 @@
 # JAVAFX
-# Project
+## Project
 Java group project repository
 
-# Usage
+## Usage
 Enter beta file 
 
     java -jar Buggybits.jar
 
-# People
+## People
 	This is a group project.
