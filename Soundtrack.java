@@ -21,7 +21,7 @@ public class Soundtrack {
 	MediaPlayer player = new MediaPlayer(soundTrack);
 	MediaView mediaView = new MediaView(player);
 
-	private static File file1 = new File("music.burp.mp3");
+	private static File file1 = new File("music/burp.mp3");
 	private static final String source1 = file1.toURI().toString();
 
 	Media burp = new Media(source1);
@@ -34,6 +34,11 @@ public class Soundtrack {
 	Media apple = new Media(source2);
 	MediaPlayer appleplayer = new MediaPlayer(apple);
 	MediaView applemediaView = new MediaView(appleplayer);
+	
+	public Soundtrack() {
+		// TODO Auto-generated constructor stub
+		System.out.println(source);
+	}
 
 	public void backgroundMusic() {
 		player.play();
