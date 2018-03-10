@@ -1,4 +1,4 @@
-# JAVAFX
+<center>JAVAFX</center>
 ## Project
 Java group project repository. This project amis to teach kids how to do binary addition and subtraction with fruit symbols. So we also adopt Colourful hand drawn cartoony style to appeal to children. It is beta version now, which mean they still has many bug, use `Ctrl + D` for mark this page giving more young children to enjoy computer science knowledge
 
