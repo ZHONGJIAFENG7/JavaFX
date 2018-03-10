@@ -1,0 +1,14 @@
+Introduction
+
+
+How to Play
+
+The aim of the game is to win the race by going fastest and eating as many apples as possible!
+
+If you eat nutritious apples then you will speed up.
+
+Some apples are moldy and have worms in, but you can’t see them just by looking. These apples look the same! These moody apples will slow you down.
+
+Luckily there is help! To know which fruits to eat, look in the top right corner. 
+
+There you will find a binary hint. If you make the binary number by eating the correct apple, you shall be the fastest and win the race!
