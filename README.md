@@ -1,2 +1,9 @@
-# project
-java group project repository
+# Project
+Java group project repository
+
+# Usage
+Enter beta file
+    java -jar Buggybits.jar
+    
+
+
