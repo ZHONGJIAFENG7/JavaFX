@@ -12,20 +12,20 @@ This is a group project, incluing ★ Jiafeng Zhong ★ Rob Bettison ★ Hugo Ke
 
 
 ## Aims
-This project amis to teach kids how to do binary addition and subtraction with fruit symbols. Colourful hand drawn cartoony style to appeal to children. 
+This project amis to teach kids how to do binary addition and subtraction with fruit symbols. So we also adopt Colourful hand drawn cartoony style to appeal to children. 
 
 ## Chanllenge
 The interesting Technical Challenges are following:
 
-  •Producing  the  games  artwork  by  hand  and  animating  it.
+     •Producing  the  games  artwork  by  hand  and  animating  it.
   
-  •Collisions.
+     •Collisions.
 
-  •Looping/changing  fruit.
+     •Looping/changing  fruit.
 
-  •Speeding  up/  slowing  down.
+     •Speeding  up/  slowing  down.
 
-  •AnimationTimer  vs  Timeline
+     •AnimationTimer  vs  Timeline
 
 
 
